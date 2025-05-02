@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.container-left{
+    display: inline-block;
+    margin-right: 86px;
+    margin-left: 154px;
+}
+
+.containder-right{
+    display: inline-block;
+    margin-top: 217px;
+}
+
+.nav{
+    margin-top: 47px;
+    text-transform: uppercase;
+ 
+}
+
+
+.link-menu{
+    color: #989D9C;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    margin-right: 23px;
+    cursor: pointer;
+}
+
+.link-menu:hover{
+    opacity: 0.6;
+}
+
+.link-menu:active{
+    opacity: 0.4;
+}
+
+img{
+    margin-top: 173px;
+}
+
+.button{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    width: 130px;
+    height: 41px;
+    background: #665AE1;
+    cursor: pointer;
+}
+
+.button:hover{
+    opacity: 0.6;
+}
+
+.button:active{
+    opacity: 0.4;
+}
+
+h1{
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: normal;
+    width: 513px;
+    height: 122px;
+}
+
+h2{
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p{
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: normal;
+    width: 515px;
+    height: 87px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+button{
+    color: #000;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 22px;
+    background: #ADFF00;
+    width: 239px;    
+    height: 64px;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.6;
+}
+
+button:active{
+    opacity: 0.4;
+}
+
+@media screen and (max-width: 1300px) {
+
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.nav{
+    display: none;
+}
+
+
+h1{
+    font-size: 100px;
+    margin-left: 170px; 
+}
+
+h2{
+    font-size: 60px;
+    margin-left: 200px;
+    margin-top: 70px;
+    margin-bottom: 60px
+}
+
+p{
+    display: none;
+}
+
+button{
+    margin: 100px 0px 0 285px;
+    border-radius: 30px;
+   
+}
+button:hover{
+    transform: scale(2);
+}
+
+}
