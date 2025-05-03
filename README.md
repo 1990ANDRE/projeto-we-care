@@ -6,4 +6,4 @@
 <p>DESCTOP.</p>
 <img src=""/>
 <p>MOBILE.</p>
-<img src=""/>
+<img src="assets/Captura de Tela (6).png" alt="we care"/>
