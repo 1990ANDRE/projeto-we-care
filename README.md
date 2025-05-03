@@ -4,6 +4,6 @@
 <br>
 <h3>É um projeto que é usado [HTML] [CSS], um projeto responsivo, desenvolvido para DESCTOP e MOBILE.</h3>
 <p>DESCTOP.</p>
-<img src=""/>
+<img src="assets/Captura de Tela (5).png" alt="we care"/>
 <p>MOBILE.</p>
 <img src="assets/Captura de Tela (6).png" alt="we care"/>
